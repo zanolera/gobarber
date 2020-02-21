@@ -5,8 +5,12 @@
 /.pnp
 .pnp.js
 
+
 # temporary files
-/tmp
+/tmp/uploads/.png
+
+# ambient variables
+.env
 
 # testing
 /coverage
