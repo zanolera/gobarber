@@ -2033,10 +2033,10 @@ nodemailer-express-handlebars@^3.1.0:
   dependencies:
     express-handlebars "^3.0.0"
 
-nodemailer@^6.6.1:
-  version "6.6.1"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.6.1.tgz#2a05fbf205b897d71bf43884167b5d4d3bd01b99"
-  integrity sha512-1xzFN3gqv+/qJ6YRyxBxfTYstLNt0FCtZaFRvf4Sg9wxNGWbwFmGXVpfSi6ThGK6aRxAo+KjHtYSW8NvCsNSAg==
+nodemailer@^8.0.4:
+  version "8.0.4"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-8.0.4.tgz#b63626585693f37a390ddaecde273da991c76010"
+  integrity sha512-k+jf6N8PfQJ0Fe8ZhJlgqU5qJU44Lpvp2yvidH3vp1lPnVQMgi4yEEMPXg5eJS1gFIJTVq1NHBk7Ia9ARdSBdQ==
 
 nodemon@^2.0.2:
   version "2.0.2"
